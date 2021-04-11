@@ -1,0 +1,1 @@
+It's a test product uses Express.js on back, ReactJS on front, MongoDB as DataBase, and Pusher for real-time chatting.
